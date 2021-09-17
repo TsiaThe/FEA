@@ -12,7 +12,7 @@ public class Element
     // Setters
     public void setTag(int Tag)
     {
-        m_Tag = Tag;
+        m_Tag = Tag; 
     }
 
     public void setMaterial(Material Material)
