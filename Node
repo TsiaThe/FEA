@@ -1,0 +1,13 @@
+public class Node
+{
+    private int m_int;
+
+    public Aclass()
+    {
+        m_int=0;
+    }
+    public static void main(String[] args)
+    {
+        System.out.println("Hello world");
+    }
+}
